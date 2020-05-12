@@ -1,1 +1,11 @@
-[{"name": "audit", "version": "2.8.4", "approved": false}, {"name": "libcap-ng", "version": "0.7.9", "approved": true}]
+[
+  {
+    "name": "System.Data.SQLite.Core",
+    "version": "1.0.112.2",
+    "license_id": "MS-PL",
+    "copyright": [
+      " Microsoft Corporation. All rights reserved."
+    ],
+    "approved": true
+  }
+]
