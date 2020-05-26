@@ -1,0 +1,243 @@
+[
+  {
+    "license_id": "Apache-2.0",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "BSD-2-Clause",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "BSD-2-Clause-FreeBSD",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "BSD-3-Clause",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "0BSD",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "ISC",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "MIT",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "X11",
+    "disclose_source_code": false,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "GPL-2.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "GPL-2.0+",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "LGPL-2.1",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "LGPL-2.1+",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "GPL-2.0-only",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "GPL-2.0-or-later",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "LGPL-2.1-only",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "LGPL-2.1-or-later",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "MS-PL",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "GPL-3.0",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "GPL-3.0+",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "GPL-3.0-or-later",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "LGPL-3.0",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "LGPL-3.0+",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "LGPL-3.0-or-later",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "MPL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "MPL-1.1",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "MPL-2.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "EPL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "CDDL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "AFL-3.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "AFL-3.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "IPL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "APSL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "APSL-1.1",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "APSL-1.2",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "APSL-2.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "AGPL-3.0",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "AGPL-3.0+",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "AGPL-3.0-or-later",
+    "disclose_source_code": true,
+    "reinstall_software": true,
+    "approved_to_be_used" : false
+  },  {
+    "license_id": "CPAL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "Frameworx-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "EUPL-1.1",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "EUPL-1.2",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "OSL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "OSL-2.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "OSL-2.1",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "OSL-3.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "APL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  },  {
+    "license_id": "CPL-1.0",
+    "disclose_source_code": true,
+    "reinstall_software": false,
+    "approved_to_be_used" : true
+  }
+]
